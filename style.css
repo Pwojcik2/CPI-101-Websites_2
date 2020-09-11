@@ -1,0 +1,13 @@
+body {background-color: lightblue;}
+
+a:hover {color: red;}
+
+.pictop{
+position: relative;
+padding: 0px;
+top: 273px;
+font-size: 50px;
+color:purple;
+font-family: Impact;
+text-shadow: 2px 2px #000000; 
+}
